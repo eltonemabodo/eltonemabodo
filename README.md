@@ -16,4 +16,6 @@ My interests include:
 - 🥑 **Food Security & Nutrition**
 - 🌾 **Agricultural & Development Economics**
 
-Happy to chat about my past experience :)
+Some of my visualisations
+![Alt text](https://github.com/eltonemabodo/sf_visuals/blob/main/figures/beneficiaries_percentage_school_feeding_2.png?raw=true)
+![Alt text](https://github.com/eltonemabodo/sf_visuals/blob/main/figures/students_benefiting_school_feeding.png?raw=true)
