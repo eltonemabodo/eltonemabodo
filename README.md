@@ -15,9 +15,8 @@ My interests include:
 - 📦 **Reproducible Research & Open Science**
 - 🥑 **Food Security & Nutrition**
 - 🌾 **Agricultural & Development Economics**
-
-## Some of my Visualisations [All from R(ggplot2)]
 <!--
+## Some of my Visualisations [All from R(ggplot2)]
 <p align="center">
   <img src="https://github.com/eltonemabodo/sf_visuals/blob/main/figures/beneficiaries_percentage_school_feeding_2.png?raw=true" alt="Visualization 1" width="300"/>
   <img src="https://github.com/eltonemabodo/sf_visuals/blob/main/figures/students_benefiting_school_feeding.png?raw=true" alt="Visualization 2" width="300"/>
