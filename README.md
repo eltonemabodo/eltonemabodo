@@ -20,6 +20,6 @@ My interests include:
 
 <p align="center">
   <img src="https://github.com/eltonemabodo/sf_visuals/blob/main/figures/beneficiaries_percentage_school_feeding_2.png?raw=true" alt="Visualization 1" width="300"/>
-  <img src="https://github.com/eltonemabodo/sf_visuals/blob/main/figures/students_benefiting_school_feeding.png?raw=true" alt="Visualization 2 width="300"/>
+  <img src="https://github.com/eltonemabodo/sf_visuals/blob/main/figures/students_benefiting_school_feeding.png?raw=true" alt="Visualization 2" width="300"/>
   <img src="https://github.com/eltonemabodo/unicef_assessment/blob/main/03_figures/indicators_coverage_by_u5mr_status.png?raw=true" alt="Visualization 3" width="300"/>
 </p>
